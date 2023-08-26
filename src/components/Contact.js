@@ -76,8 +76,8 @@ export default function Contact() {
           </h2>
           <p className="leading-relaxed mb-5">
             I am passionate about using Javascript and Animation Libraries to
-            create awesome user experiences. With over five years of experience
-            developing web applications using the latest front-end and back-end
+            create awesome user experiences. With over one years of experience
+            developing web applications using the front-end and back-end
             technologies.
           </p>
           <div className="relative mb-4">

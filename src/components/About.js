@@ -16,8 +16,7 @@ export default function About() {
             Software Engineer who loves to transform ideas into reality using
             code. Motivated designer and developer with experience creating
             custom websites with ReactJs, JavaScript, HTML5, CSS3. Shopify app
-            using ReactJs, Javascript, Polaris, Graphql, nodejs, Koajs and
-            Mobile App using React-native. Apart from coding, some other
+            using ReactJs and Javascript. Apart from coding, some other
             activities that I love to do!
           </p>
           <div className="flex justify-center">
