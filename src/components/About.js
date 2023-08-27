@@ -14,9 +14,9 @@ export default function About() {
           </h1>
           <p className="mb-8 leading-relaxed">
             Software Engineer who loves to transform ideas into reality using
-            code. Motivated designer and developer with experience creating
-            custom web application with ReactJs, JavaScript, HTML5, CSS3. Apart
-            from coding, some other activities that I love to do!
+            code. Motivated developer with experience creating custom web
+            application with ReactJs, JavaScript, HTML5, CSS3. Apart from
+            coding, some other activities that I love to do!
           </p>
           <div className="flex justify-center">
             <a
