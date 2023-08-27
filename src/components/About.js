@@ -13,10 +13,21 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Software Engineer who loves to transform ideas into reality using
-            code. Motivated developer with experience creating custom web
-            application with ReactJs, JavaScript, HTML5, CSS3. Apart from
-            coding, some other activities that I love to do!
+            I am currently working as Web Developer at{" "}
+            <a
+              href="https://www.brycenmyanmar.com.mm/"
+              target="_blank"
+              style={{ color: "blue" }}
+            >
+              Brycen Myanmar
+            </a>{" "}
+            . I completed my degree in Bachelor of Technology in Electronic &
+            Communication Engineering from Technological University (Myeik).
+            <br />
+            Web Developer who loves to transform ideas into reality using code.
+            Motivated developer with experience creating custom web application
+            with ReactJs, JavaScript, PHP, HTML5, CSS3. Apart from coding, some
+            other activities that I love to do!
           </p>
           <div className="flex justify-center">
             <a
