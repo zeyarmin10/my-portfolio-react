@@ -15,22 +15,6 @@ export const projects = [
     image: "./EducationSite.jpg",
     link: "https://zeyarmin10.github.io/OnlineEducation/",
   },
-  // {
-  //   title: "DevChat",
-  //   subtitle: "React and Firebase",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-3.gif",
-  //   link: "https://reactbootcamp.com",
-  // },
-  // {
-  //   title: "Epic Todo App",
-  //   subtitle: "React Hooks",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-4.gif",
-  //   link: "https://reactbootcamp.com",
-  // },
 ];
 
 export const testimonials = [
@@ -51,11 +35,12 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript, Jquery",
-  "React",
-  "PHP",
   "HTML, CSS",
+  "JavaScript, Jquery",
+  "React.JS",
+  "PHP",
+  "CakePHP",
   "MySql",
   "Git",
-  "CakePHP",
+  "WordPress",
 ];
